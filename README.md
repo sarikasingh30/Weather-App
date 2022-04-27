@@ -11,7 +11,7 @@ Show the map of that entered city
 
 Show the weather details of that city . 
 
-Show min temp, max temp, wind, clounds, sunrise, sunset etc.
+Show min temp, max temp, wind, clouds, sunrise, sunset etc.
 
 Used logos or icons while showing the data
 

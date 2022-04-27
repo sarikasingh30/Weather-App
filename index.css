@@ -1,0 +1,73 @@
+body {
+  background-image: url("https://images.tech.co/wp-content/uploads/2015/06/weather.jpg");
+  background-size: cover;
+}
+#city {
+  width: 600px;
+  height: 80px;
+  margin-left: 25px;
+  margin-top: 5%;
+  border: 4px solid black;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 30px;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 6px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+#entercity {
+  border: 4px solid black;
+  height: 80px;
+  width: 300px;
+  margin-top: 5%;
+  text-align: center;
+  border-radius: 6px;
+  background-color: tomato;
+  color: white;
+  font-size: 30px;
+}
+#entercity:hover {
+  box-shadow: rgba(136, 165, 191, 0.48) 8px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+  background-color: white;
+  color: tomato;
+}
+#displaydetail1,
+#displaydetail2 {
+  width: 500px;
+  height: 250px;
+  margin-top: 15px;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+  padding: 15px;
+  margin-left: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#mapdiv {
+  width: 650px;
+  height: 550px;
+  margin-top: 15px;
+  margin-left: 33%;
+  padding: 20px;
+  border: 2px solid black;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#bottom {
+  display: flex;
+}
+
+#seven {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  color: white;
+  border: 2px solid black;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+#seven > img {
+  width: 50%;
+}

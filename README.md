@@ -35,8 +35,6 @@ For Maps -
 ## Reference Images
 
 
-![Screenshot (268)](https://user-images.githubusercontent.com/97461783/165587574-860950c1-e2c3-4491-ba24-49995d67eba4.png)
-
 ![Screenshot (271)](https://user-images.githubusercontent.com/97461783/165587697-b4f481f9-0133-4220-b125-f69c8d8696de.png)
 
 ![Screenshot (272)](https://user-images.githubusercontent.com/97461783/165587812-b4bc0c61-42bd-45be-8d5f-ce0e6b624af7.png)
